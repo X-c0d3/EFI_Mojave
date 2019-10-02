@@ -274,7 +274,7 @@
 				H4QAAAAAAA==
 				</data>
 				<key>MatchBuild</key>
-				<string>17G8030</string>
+				<string>17G8030,17G8037</string>
 				<key>MatchOS</key>
 				<string>10.13.6</string>
 				<key>Replace</key>
@@ -316,7 +316,7 @@
 				H4QAAAAAAA==
 				</data>
 				<key>MatchBuild</key>
-				<string>18G95</string>
+				<string>18G95,18G103</string>
 				<key>MatchOS</key>
 				<string>10.14.6</string>
 				<key>Replace</key>
@@ -466,7 +466,7 @@
 				MduAPagMjQAGdVw=
 				</data>
 				<key>MatchBuild</key>
-				<string>17G8030</string>
+				<string>17G8030,17G8037</string>
 				<key>MatchOS</key>
 				<string>10.13.6</string>
 				<key>Replace</key>
@@ -500,7 +500,7 @@
 				MduAPUhpmAAGdVw=
 				</data>
 				<key>MatchBuild</key>
-				<string>18G95</string>
+				<string>18G95,18G103</string>
 				<key>MatchOS</key>
 				<string>10.14.6</string>
 				<key>Replace</key>
@@ -548,7 +548,7 @@
 				jQCJBQwMjQA=
 				</data>
 				<key>MatchBuild</key>
-				<string>17G8030</string>
+				<string>17G8030,17G8037</string>
 				<key>MatchOS</key>
 				<string>10.13.6</string>
 				<key>Replace</key>
@@ -595,7 +595,7 @@
 				Gg==
 				</data>
 				<key>MatchBuild</key>
-				<string>18G95</string>
+				<string>18G95,18G103</string>
 				<key>MatchOS</key>
 				<string>10.14.6</string>
 				<key>Replace</key>
@@ -687,7 +687,7 @@
 				AA==
 				</data>
 				<key>MatchBuild</key>
-				<string>17G8030</string>
+				<string>17G8030,17G8037</string>
 				<key>MatchOS</key>
 				<string>10.13.6</string>
 				<key>Replace</key>
@@ -725,7 +725,7 @@
 				AA==
 				</data>
 				<key>MatchBuild</key>
-				<string>18G95</string>
+				<string>18G95,18G103</string>
 				<key>MatchOS</key>
 				<string>10.14.6</string>
 				<key>Replace</key>
@@ -762,7 +762,7 @@
 				SIkFrKiFAPfDAAABAHQ=
 				</data>
 				<key>MatchBuild</key>
-				<string>17G8030</string>
+				<string>17G8030,17G8037</string>
 				<key>MatchOS</key>
 				<string>10.13.6</string>
 				<key>Replace</key>
@@ -796,7 +796,7 @@
 				SIkFhs+QAPfDAAABAHQ=
 				</data>
 				<key>MatchBuild</key>
-				<string>18G95</string>
+				<string>18G95,18G103</string>
 				<key>MatchOS</key>
 				<string>10.14.6</string>
 				<key>Replace</key>
@@ -848,7 +848,7 @@
 				gz3UlXAAAHQK
 				</data>
 				<key>MatchBuild</key>
-				<string>17G8030</string>
+				<string>17G8030,17G8037</string>
 				<key>MatchOS</key>
 				<string>10.13.6</string>
 				<key>Replace</key>
@@ -882,7 +882,7 @@
 				gz31vXsAAHQK
 				</data>
 				<key>MatchBuild</key>
-				<string>18G95</string>
+				<string>18G95,18G103</string>
 				<key>MatchOS</key>
 				<string>10.14.6</string>
 				<key>Replace</key>
@@ -936,7 +936,7 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>06/13/2019</string>
+		<string>07/24/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
@@ -958,7 +958,7 @@
 		<key>ChassisType</key>
 		<string>0x0D</string>
 		<key>EfiVersion</key>
-		<string>139.0.0.0.0</string>
+		<string>140.0.0.0.0</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
